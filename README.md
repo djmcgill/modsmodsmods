@@ -10,10 +10,10 @@ Tarfyr:
 - ???
 
 weedzmin:
-- Lordran: http://dominionsmods.com/index.php?showtopic=3491
+- Juhera: http://dominionsmods.com/index.php?showtopic=3419
 
 travellog:
-- ???
+- Hallownest:
 
 teamoverheadsmash:
 - Pewter City: http://dominionsmods.com/index.php?showtopic=3926
