@@ -2,12 +2,10 @@
 
 gonadic io:
 - Karanaac: https://steamcommunity.com/app/722060/discussions/2/1700541698697620498/
+- or uluru: https://www.tapatalk.com/groups/dom3mods/uluru-rise-of-the-monoliths-t3553.html
 
 atelier:
 - Szumogliika: http://dominionsmods.com/index.php?showtopic=3331
-
-Tarfyr:
-- ???
 
 weedzmin:
 - Juhera: http://dominionsmods.com/index.php?showtopic=3419
@@ -27,14 +25,18 @@ lotham:
 Kamikaze:
 - ???
 
-Almacia:
-- ???
-
 xanrick:
 - sovirus: https://www.tapatalk.com/groups/dom3mods/nation-pack-firepower-t3292.html
 
 BaronOhShi
 - Vespika (wasps): http://dominionsmods.com/index.php?showtopic=3452
+
+kremath:
+- ???
+
+Isalphalon:
+- ???
+
 
 ## other mods:
 - extra pretenders
