@@ -22,7 +22,7 @@ mid:
 - imperial enclave: https://www.tapatalk.com/groups/dom3mods/nation-pack-firepower-t3292.html
 
 lotham:
-- myrmecos: http://dominionsmods.com/index.php?showtopic=3452
+- myrmecos (ants): http://dominionsmods.com/index.php?showtopic=3452
 
 Kamikaze:
 - ???
@@ -33,5 +33,9 @@ Almacia:
 xanrick:
 - sovirus: https://www.tapatalk.com/groups/dom3mods/nation-pack-firepower-t3292.html
 
+BaronOhShi
+- Vespika (wasps): http://dominionsmods.com/index.php?showtopic=3452
+
 ## other mods:
 - extra pretenders
+- silt
