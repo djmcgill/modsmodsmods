@@ -23,7 +23,7 @@ lotham:
 - myrmecos (ants): http://dominionsmods.com/index.php?showtopic=3452
 
 Kamikaze:
-- ???
+- MA Drangleic: https://www.tapatalk.com/groups/dom3mods/nation-ma-drangleic-t3399.html
 
 xanrick:
 - sovirus: https://www.tapatalk.com/groups/dom3mods/nation-pack-firepower-t3292.html
