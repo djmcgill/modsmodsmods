@@ -2,14 +2,15 @@
 
 gonadic io:
 - Karanaac: https://steamcommunity.com/app/722060/discussions/2/1700541698697620498/
-- Tweaks: gives First Dolmen tax collector
+- Tweaks: give First Dolmen tax collector
 
 atelier:
 - hollowmoor:
 - LA_Hollowmoor.dm
 
 weedzmin:
-- Juhera: http://dominionsmods.com/index.php?showtopic=3419
+- MA Iram: http://dominionsmods.com/index.php?showtopic=3419
+- Tweaks: Grand artificer made 120 cost (but 20 cheaper for Iram), from 0
 
 travellog:
 - Skaven: http://dominionsmods.com/index.php?s=899a35e731799d4e768b03e221295405&showtopic=3473
