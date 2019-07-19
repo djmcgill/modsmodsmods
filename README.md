@@ -17,6 +17,7 @@ travellog:
 
 teamoverheadsmash:
 - Pewter City: http://dominionsmods.com/index.php?showtopic=3926
+- Tweaks: fix starmieriderc sprite path
 
 mid:
 - imperial enclave: https://www.tapatalk.com/groups/dom3mods/nation-pack-firepower-t3292.html
@@ -39,6 +40,7 @@ kremath:
 
 Isalphalon:
 - vermillion city: http://dominionsmods.com/index.php?showtopic=3926
+- Tweaks: fix starmieriderc sprite path
 
 ## other mods:
 - extra pretenders
