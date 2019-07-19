@@ -10,7 +10,10 @@ atelier:
 
 weedzmin:
 - MA Iram: http://dominionsmods.com/index.php?showtopic=3419
-- Tweaks: Grand artificer made 120 cost (but 20 cheaper for Iram), from 0
+- Tweaks: 
+    - Grand artificer made 120 cost (but 20 cheaper for Iram), from 0
+    - Raise Nasnas now copyspells Raise Skeletons instead of Acashic Record
+    - Horde of Nasnas now copyspells Horde of Skeletons instead of Living Fire
 
 travellog:
 - Skaven: http://dominionsmods.com/index.php?s=899a35e731799d4e768b03e221295405&showtopic=3473
